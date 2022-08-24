@@ -21,3 +21,14 @@ The  dataset contains the following features with more than 3 million rows.
 - HD 
 - Original Name
 Data is too large to upload but can be found in https://lab.stc.com.sa/dataset/en/
+----------------------------------------------------------------------------------------------------------------------
+Objective:
+
+
+Find films and  series names from the datasets​
+
+Search for these the films and  series in TMDB API​
+
+Merge new variables into the main df​
+
+build content-based recommendation system
