@@ -25,8 +25,10 @@ Data is too large to upload but can be found in https://lab.stc.com.sa/dataset/e
 Objective:
 
 
-get as much information as possible to feed our dataset. We have a list of Movies/shows from STC , and i want to use TMDB API to get more information about STC movies.
-- Identfy Movies and  Shows Names from STC datasets
-- Search these the Movies and  Shows in TMDB API
-- Merge new variables into our main df
-- build content-based recommendation system based on cosine similarity
+Find films and  series names from the datasets​
+
+Search for these the films and  series in TMDB API​
+
+Merge new variables into the main df​
+
+build content-based recommendation system
