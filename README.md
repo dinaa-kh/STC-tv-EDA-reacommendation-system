@@ -27,7 +27,7 @@ Objective:
 
 Find films and  series names from the datasets​
 
-Search for these the films and  series in TMDB API​
+Search for these the films and  series in An API​
 
 Merge new variables into the main df​
 
